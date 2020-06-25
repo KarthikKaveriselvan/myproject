@@ -1,4 +1,6 @@
 // sample json file
 { key: name
 	value: sample
+key: action
+value: edit
 }
